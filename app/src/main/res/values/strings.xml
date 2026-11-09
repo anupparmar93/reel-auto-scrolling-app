@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TikTok AutoScroller</string>
+    <string name="service_desc">Sirf swipe-up gesture karta hai taaki videos apne aap scroll hon. Koi data collect nahi hota.</string>
+</resources>
